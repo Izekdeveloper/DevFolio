@@ -1,6 +1,7 @@
 # 💻 Software Developer Portfolio
 ### A small portfolio of Izek
 <img src = "https://github.com/Izekdeveloper/DevFolio/blob/0f879eb2608db168bfce38cd53932e32400f33b4/example/example.png" width = 900px >
+
 ---
 
 ## 👤 About Me
@@ -19,12 +20,11 @@ I enjoy learning new technologies and continuously improving my skills.
 - Well-organized documentation  
 - Banner & poster design for shops  
 
-🔗 **Demo:** [Click here](https://)
-
 ---
 
 ## 📂 Projects
 
+🔗 **Demo:** [Click here](https://)
 
 ---
 
@@ -32,7 +32,8 @@ I enjoy learning new technologies and continuously improving my skills.
 
 ### 🎨 Frontend
 - HTML5  
-- CSS  
+- CSS
+- JavaScript
 
 ### ⚙️ Backend
 - Python  
